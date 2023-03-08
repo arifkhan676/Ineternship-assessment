@@ -1,0 +1,31 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.main-div{
+    background-image: url(../images/bg1.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 950px;
+    width: 1473px;
+    position: absolute;
+   
+}
+h1{
+    font-family: 'Raleway';
+    font-style: normal;
+    color: #444444;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 46px;
+
+
+}
+h2{
+    color: #444444;
+    font-size: 104px;
+   font-family: 'Raleway', sans-serif;
+}
+/*height: 930px;
+    width: 1465px; 
+    */
